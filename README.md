@@ -1,4 +1,4 @@
-# 🔒 ChaveMestra
+#  ChaveMestra
 
 Um cofre digital para guardar seus arquivos de forma segura no computador.
 
