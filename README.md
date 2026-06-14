@@ -61,7 +61,7 @@ src/main/java/com/chavemestra/
 
 ---
 
-## Como funciona (resumo)
+## Como funciona
 
 1. Você cria uma senha mestra na primeira vez
 2. Importa arquivos → eles são criptografados e salvos
