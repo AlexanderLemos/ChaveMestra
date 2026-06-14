@@ -17,7 +17,7 @@ ChaveMestra é um programa desktop feito em Java que criptografa seus arquivos c
 - **Gerador de senhas** — gera senhas fortes aleatórias
 - **Log de atividades** — registra tudo que acontece (login, arquivos abertos, etc.)
 - **Bloqueio automático** — se ficar 5 min sem usar, bloqueia sozinho
-- **Suporte PT-BR e Inglês** — troca o idioma pelo botão 🌐
+- **Suporte PT-BR e Inglês** 
 
 ---
 
