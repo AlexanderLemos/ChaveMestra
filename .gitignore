@@ -1,0 +1,26 @@
+# Build
+target/
+*.class
+
+# Maven
+.mvn/maven/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Vault data (NUNCA DAR commit)
+.chavemestra/
